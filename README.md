@@ -1,4 +1,4 @@
-```markdown
+
 # Real World ARG: Your Privacy-First GameFi Platform 🌍🎮
 
 Real World ARG is an innovative GameFi platform that empowers creators to design immersive **ARG (Alternate Reality Game)** experiences that require real-world task completion. What sets this platform apart is its foundation on **Zama's Fully Homomorphic Encryption (FHE) technology**, which ensures that player privacy is protected throughout their journey. This project merges the excitement of geolocation-based challenges with cutting-edge encryption to create groundbreaking, privacy-sensitive gameplay.
